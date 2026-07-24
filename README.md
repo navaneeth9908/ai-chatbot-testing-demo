@@ -1,6 +1,6 @@
 # AI / Chatbot Testing Demo Project
 
-This is a beginner-friendly example project for an AI QA / ML QA role like the one you described.
+This is a beginner-friendly example project for an AI QA / ML QA role.
 
 It demonstrates:
 
